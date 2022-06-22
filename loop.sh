@@ -1,5 +1,6 @@
 #!/bin/bash
-for (( ; ; ))
+while :
 do
-   echo "infinite loops [ hit CTRL+C to stop]"
+	echo "Press [CTRL+C] to stop.."
+	sleep 1
 done
